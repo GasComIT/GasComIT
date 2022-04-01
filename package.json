@@ -58,7 +58,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["GasCom" , "Gascom IT" , "Web design" , "web hosting" , "Web management"],
-  "author": "Mr. Benson", "GasCom IT",
+  "author": "Mr. Benson",
   "license": "ISC"
 }
 
