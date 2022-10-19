@@ -1,4 +1,3 @@
-<img align="center" height="auto" src="https://i.ibb.co/yP7mDk4/Gas-COm-IT-second-3.jpg"/>
 <!--
 ___
 ![Metrics](https://github.com/gascomit/gascomit/blob/beta/github-metrics.svg)
@@ -22,7 +21,10 @@ class say_hello:
         return self.__str__()
 
 if __name__ == "__main__":
-    print(say_hello("Hello there 👋, I'm Royce Bob, Nice to meet you all!"))
+ for say im Hello:
+    print("Hello there 👋, I'm Royce Bob")
+    print("Nice to meet you all!")
+break;
 ```
 <div align="center">
   <a href="https://gascomi.github.io"><span class="avatar"><img width='200' height='200'  src="https://i.postimg.cc/GtQgX45F/photo.jpg" alt=""> </a></span>
@@ -67,15 +69,7 @@ MacOS-Catalina, Windows11-Beta, Kali-Linux, Ubuntu
 ### Aquilium Bot schedule
 - Powered by [GasCom IT](https://github.com/gascomit)
 
-###  Bot production routine 
-| Version | Name | Release Date |
-| ------- | ------- | -------------- |
-| 1.00 | Ultron | 09 Nov 2021 |
-| 1.10 | Mee6  | 23 Oct 2021 |
-| 1.20 | Mizuki | 04 Dec 2021 |
-| 1.30 | Cortana | 11 Jan 2022 |
-| 1.40 | Qtell | 20 Feb 2022 |
-| 1.50 | Vlkyre | [ In progress ] |
+### Production routine 
 
  <div align="center">
 
