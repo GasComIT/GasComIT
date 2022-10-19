@@ -9,6 +9,8 @@ ___
 
 ---
 ```python
+import speech *
+import GUI
 class say_hello:
 
     def __init__(self, text) -> None:
@@ -19,26 +21,26 @@ class say_hello:
 
     def __repr__(self) -> str:
         return self.__str__()
-
+# this is a github student developer
 if __name__ == "__main__":
- for say im Hello:
-    print("Hello there 👋, I'm Royce Bob")
-    print("Nice to meet you all!")
-break;
+ for say in Hello:
+  GUI.print("Hello there 👋, I'm Royce Bob")
+  GUI.print("Nice to meet you all!")
+return (Royce);
 ```
 <div align="center">
-  <a href="https://gascomi.github.io"><span class="avatar"><img width='200' height='200'  src="https://i.postimg.cc/GtQgX45F/photo.jpg" alt=""> </a></span>
-  <h1>Alison Parker</h1>
+  <a href="https://gascomit.github.io"><span class="avatar"><img width='200' height='200'  src="https://i.postimg.cc/GtQgX45F/photo.jpg" alt=""> </a></span>
+  <h1>Benson Mugwe</h1>
 </div>
 
 <div align="center">
-<h7> Les of a programmer and more like a Freelancer </h7>
+<h6>More of a programmer and less like a Freelancer </h6>
 </div>
 ---
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="#" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="roycebobwillie" height="30" width="40" /></a>
-<a href="https://instagram.com/roycebobelwillie" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="roycebobelwilie" height="30" width="40" /></a>
+<a href="https://twitter.com/royce__bob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="Royce Bob" height="30" width="40" /></a>
+<a href="https://instagram.com/royce__bob" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="roycebobelwilie" height="30" width="40" /></a>
 </p>
 
 <!--START_SECTION:waka-->
