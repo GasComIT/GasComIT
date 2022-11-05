@@ -1,3 +1,5 @@
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner2-direct.svg)](https://vshymanskyy.github.io/StandWithUkraine)
+
 <!--
 ___
 ![Metrics](https://github.com/gascomit/gascomit/blob/beta/github-metrics.svg)
