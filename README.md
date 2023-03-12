@@ -9,29 +9,18 @@ ___
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=gascomit&repo=Secktor&theme=auto)](https://github.com/gascomit/secktor-md)
 -->
 
----
-```python
-import speech *
-import GUI
-class say_hello:
-
-    def __gas__(self, text) -> None:
-        self.text = text
-
-    def __com__(self) -> str:
-        return self.text
-
-    def __it__(self) -> str:
-        return self.__str__()
-# this is a github student developer
-if __name__ == "__main__":
- for say in Hello:
-  GUI.print("Hello there 👋, I'm Benson Mugwe")
-  GUI.print("Nice to meet you all!")
-return (GasComIT);
-```
 <div align="center">
-  <a href="https://gascomit.github.io">GasComIT.io</a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Tilt+Warp&size=25&duration=4000&pause=1000&color=16F776&background=000000&width=250&height=40&lines=Hi+Dad+it's+your+son;Prince+Ben" alt="Typing SVG" /></a>    
+<p align="center">
+
+
+<a href="https://github.com/GasComIT"><img align="center" src="https://github-cardname.caliph.my.id/api?name=GasComIT&description=Hi,%20I%20am%20Benson(GasComIT).%20Just%20give%20me%20a%20girl🤣%20I%20wanna%20program%20her,%20please%20Support%20Me&image=https://i.ibb.co/VmqVH9t/p-alison.jpg&backgroundColor=%23ecf0f1&instagram=gascomit&github=gascomit&pattern=ticTacToe&colorPattern=%23eaeaea&site=https://youtube.com/@arctix_bots"/></a>
+</p>
+
+
+
+<div align="center">
+  <a href="https://gascomit.repl.co">GasComIT.repl.co</a>
   <h1>Benson Mugwe</h1>
 </div>
 
